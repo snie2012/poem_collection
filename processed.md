@@ -1,10 +1,10 @@
-## Separation
+### Separation
 ### W. S. MERWIN
 Your absence has gone through me</br>
 Like thread through a needle.</br>
 Everything I do is stitched with its color.</br>
 
-## 列宁格勒
+### 列宁格勒
 ### 曼德尔施塔姆
 我回到我的城市，熟悉如眼泪，</br>
 如静脉，如童年的腮腺炎。</br>
@@ -28,7 +28,7 @@ Everything I do is stitched with its color.</br>
 门链像镣铐哐当作响。</br>
 (北岛译)</br>
 
-## 缺席的灵魂
+### 缺席的灵魂
 ### 洛尔加
 牛和无花果树都不认识你，</br>
 马和你家的蚂蚁不认识你，</br>
@@ -63,7 +63,7 @@ Everything I do is stitched with its color.</br>
 (北岛译)</br>
 
 
-## 无题
+### 无题
 ### 曼德尔施塔姆
 窒息的慢性哮喘步步逼近!</br>
 厌倦了空间的死亡,</br>
@@ -82,7 +82,7 @@ Everything I do is stitched with its color.</br>
 1937 年 1 月 16 日,沃罗涅什</br>
 (北岛译)</br>
 
-## 秋 日
+### 秋 日
 ### 里尔克
 主呵,是时候了。夏天盛极一时。</br>
 把你的阴影置于日晷上,</br>
@@ -99,7 +99,7 @@ Everything I do is stitched with its color.</br>
 在林荫路上不停地</br>
 徘徊,落叶纷飞。</br>
 
-## 
+### 
 ### 里尔克
 我象一面旗帜被空旷包围,</br>
 我感到阵阵来风,我必须承受;</br>
@@ -112,13 +112,13 @@ Everything I do is stitched with its color.</br>
 我挣脱自身,独自</br>
 置身于伟大的风暴中。</br>
 
-## 墓志铭
+### 墓志铭
 ### 里尔克
 玫瑰,纯粹的矛盾,乐</br>
 为无人的睡梦,在众多</br>
 眼睑下。</br>
 
-## 夜曲
+### 夜曲
 ### 特拉克尔
 屏息凝神。野兽的惊骇面孔</br>
 在那圣洁的蓝色前僵住。</br>
@@ -132,7 +132,7 @@ Everything I do is stitched with its color.</br>
 孤独者象牙色太阳穴</br>
 映照堕落天使的余辉。</br>
 
-## 衰 亡
+### 衰 亡
 ### 特拉克尔
 在白色的池塘上</br>
 野鸟们已惊飞四散。</br>
@@ -146,7 +146,7 @@ Everything I do is stitched with its color.</br>
 在荆棘的拱门下,</br>
 噢我兄弟,我们是攀向午夜的盲目时针。</br>
 
-## 挽 歌
+### 挽 歌
 ### 特拉克尔
 睡眠和死亡,黑鹰们</br>
 整夜绕着这颗头颅俯冲:</br>
@@ -161,7 +161,7 @@ Everything I do is stitched with its color.</br>
 在群星下。</br>
 夜缄默的面孔。</br>
 
-## 卡罗那
+### 卡罗那
 ### 策兰
 秋天从我手中吃它的叶子:我们是朋友。</br>
 我们从坚果剥出时间并教它走路:</br>
@@ -184,7 +184,7 @@ Everything I do is stitched with its color.</br>
 是过去成为此刻的时候了。</br>
 是时候了。</br>
 
-## 数数杏仁
+### 数数杏仁
 ### 策兰
 数数杏仁,</br>
 数数苦的让你醒着的,</br>
@@ -227,7 +227,7 @@ Everything I do is stitched with its color.</br>
 歌在人类以外</br>
 吟唱。</br>
 
-## 果戈理
+### 果戈理
 ### 特朗斯特罗默
 外套破旧得像狼群。</br>
 面孔像大理石片。</br>
@@ -253,7 +253,7 @@ Everything I do is stitched with its color.</br>
 快乘上你的火焰马车离开这国度!</br>
 (北岛译)</br>
 
-## 写于1996年解冻
+### 写于1996年解冻
 ### 特朗斯特罗默
 淙淙流水;喧腾;古老的催眠。</br>
 河淹没了汽车公墓,闪烁</br>
@@ -261,7 +261,7 @@ Everything I do is stitched with its color.</br>
 我抓紧桥栏杆。</br>
 桥:一只飞越死亡的巨大铁鸟。</br>
 
-## 雪
+### 雪
 ### 艾基
 雪来自附近</br>
 窗台的花陌生。</br>
@@ -295,7 +295,7 @@ Everything I do is stitched with its color.</br>
 而我无法</br>
 去阻止它们。</br>
 
-## 临近森林
+### 临近森林
 ### 艾基
 而</br>
 我终于接近没有人到过那里</br>
@@ -327,7 +327,7 @@ Everything I do is stitched with its color.</br>
 天蓝</br>
 (宋琳译)</br>
 
-## 时间的玫瑰
+### 时间的玫瑰
 ### 北岛
 当守门人沉睡</br>
 你和风暴一起转身</br>
@@ -354,7 +354,7 @@ Everything I do is stitched with its color.</br>
 那门开向大海</br>
 时间的玫瑰</br>
 
-## 通过绿色导火索催开花朵的力量
+### 通过绿色导火索催开花朵的力量
 ### 狄兰
 通过绿色导火索催开花朵的力量</br>
 催开我绿色年华;炸毁树根的力量</br>
@@ -395,7 +395,7 @@ Everything I do is stitched with its color.</br>
 望着窗外，只要想起一生中后悔的事</br>
 梅花便落满了南山</br>
 
-## When You Are Old 
+### When You Are Old 
 ### WILLIAM BUTLER YEATS
 When you are old and grey and full of sleep,</br>
 And nodding by the fire, take down this book,</br>
@@ -412,7 +412,7 @@ Murmur, a little sadly, how Love fled</br>
 And paced upon the mountains overhead</br>
 And hid his face amid a crowd of stars.</br>
 
-## Adam's Curse
+### Adam's Curse
 ### WILLIAM BUTLER YEATS
 We sat together at one summer’s end,</br>
 That beautiful mild woman, your close friend,</br>
@@ -457,7 +457,7 @@ To love you in the old high way of love;</br>
 That it had all seemed happy, and yet we’d grown</br>
 As weary-hearted as that hollow moon.</br>
 
-## 亚当的诅咒
+### 亚当的诅咒
 ### 威廉·巴特勒·叶芝（1865-1939）
 ### 王道余 译
 那一年夏末我们一起闲坐，</br>
