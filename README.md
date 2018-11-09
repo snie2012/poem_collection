@@ -1,2 +1,2 @@
 # poem_collection
-A collection of poems I like
+Collection of poems I like
